@@ -1,0 +1,97 @@
+body {
+    background-color: darkgrey;
+    background-image: url(images/Blue_Bottle\,_Kyoto_Style_Ice_Coffee_\(5909775445\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    /* background-color: blueviolet; */
+    width: 1024px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    /* background-color: blue; */
+    min-height: 120px;
+
+}
+
+.LogoImage {
+    height: 120px;
+}
+
+nav {
+    background-color: aquamarine;
+    min-height: 45px;
+    text-align: center;
+    padding-top: 16px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main {
+    /* background-color: darkorange; */
+    min-height: 375px;
+    text-align: center;
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-top: 16px;
+    padding-right: 16px;
+}
+
+main h1 {
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-shadow: 2px 2px 2px black;
+
+
+}
+
+main h2 {
+    font-size: 35px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 2px black;
+}
+
+main p {
+    font-size: 18px;
+    color: rgba(249, 111, 93, 0.945);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px black;
+}
+
+.map {
+    /* background-color: gold; */
+    min-height: 120px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: rgba(43, 185, 255, 0.284);
+    min-height: 60px;
+    text-align: center;
+}
+
+footer p {
+    color: aliceblue;
+}
+
+.ContactText {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 1px 1px 1px black;
+}
